@@ -22,12 +22,10 @@ View [example pages here.](https://demos.creative-tim.com/vue-material-kit/)
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
+<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />
 
 | VueJS |
 | ----- |
-
-| [![Vue Material Dashboard 2 PRO](https://s3.amazonaws.com/creativetim_bucket/products/97/thumb/vue-material-kit-2.jpg)](http://demos.creative-tim.com/vue-material-kit/?ref=readme-vmk)
 
 ### What's included
 
@@ -81,8 +79,6 @@ vue-material-kit-2
     │   └── material-kit.js
     ├── .eslintrc.json
     ├── .gitignore
-    ├── CHANGELOG.md
-    ├── ISSUE_TEMPLATE.md
     ├── LICENSE.md
     ├── index.html
     ├── package.json
